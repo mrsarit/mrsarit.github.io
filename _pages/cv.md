@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D (Pursuing) in Structural Engineeing, Indian Institute of Technology Hyderabad, India, 2022 (expected)
+* M.Tech in Seismic Science and Engineeing, National Institute of Technology Agartala, India, 2015
+* B.Tech in Civil Engineeing, National Institute of Technology Agartala, India, 2012
+* Higher Secondary (HS +2) from Tripura Board of Secondary Education, Agartala, India, 2008
+* Madhyamic (10th) from Tripura Board of Secondary Education, Agartala, India, 2006
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2015 to Till date: Assistant Professor
+  * Civil Engineeing Department, Icfai Foundation for Higher Education, Hyderabad
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  
+* Summer 2010: Internship
+  * Tripura Housing Board, Agarlata
+  * Duties included: Site visit
+  * Supervisor: Mr. Madan
+
+* Summer 2011: Internship
+  * Gammon India, Kolkata
+  * Duties included: Site visit
+  * Supervisor: 
   
 Skills
 ======
