@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sarit Chanda / Personal Website"
+title                    : "Sarit Chanda"
 title_separator          : "-"
 name                     : &name "Sarit Chanda"
 description              : &description "Assistant Professor"
