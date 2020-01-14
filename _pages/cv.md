@@ -20,8 +20,10 @@ Education
 Work experience
 ======
 * July 2015 to Till date: Assistant Professor
-  * Civil Engineeing Department, Icfai Foundation for Higher Education, Hyderabad
+  * Civil Engineering Department, Icfai Foundation for Higher Education, Hyderabad
 
+* December 2012 to July 2013: Technical Assistant
+  * Civil Engineering Department, National Institute of Technology, Agartala
   
 * Summer 2010: Internship
   * Tripura Housing Board, Agarlata
@@ -35,12 +37,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab
+* Python
+* Ansys
 
 Publications
 ======
@@ -62,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
